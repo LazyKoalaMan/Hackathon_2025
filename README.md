@@ -21,6 +21,7 @@ Created with assistance of Gemnai Ai and Chat gpt
 
 RSM workshop & social network-
 san antonio military city 
+Recommends Comptia, and theyl'l help certify you.
 
 Google ai workshop MLH-
 
