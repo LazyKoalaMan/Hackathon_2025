@@ -17,3 +17,12 @@ GAG ME5- Gemnai Ai Game master Edition 5, AI-driven game management platform tha
 3.Ai integretation- using Gemnai Ai to provide real time narration and adaptive story telling by the module integrated by gm and user input.
 
 Created with assistance of Gemnai Ai and Chat gpt
+
+
+RSM workshop & social network-
+san antonio military city 
+
+Google ai workshop MLH-
+
+
+
