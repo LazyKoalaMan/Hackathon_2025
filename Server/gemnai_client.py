@@ -8,7 +8,7 @@ from google import genai
 GAMESTATE_PATH = Path(__file__).parent / "gamestate.json"
 
 # Initialize Gemini client
-client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
+client = genai.Client(api_key="AIzaSyC-jh1Ny2RcKNyf-_Mgrm6MX_i3rlZhU6s")
 
 def load_game_state():
     if GAMESTATE_PATH.exists():

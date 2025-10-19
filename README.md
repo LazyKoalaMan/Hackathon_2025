@@ -18,6 +18,12 @@ GAG ME5- Gemnai Ai Game master Edition 5, AI-driven game management platform tha
 
 Created with assistance of Gemnai Ai and Chat gpt
 
+How to run with current features:
+cd .\Server\
+python app.py
+cd .\dungeon-master-app\
+npm run dev
+
 
 
 
@@ -29,7 +35,6 @@ Google ai workshop MLH-
 Ai studio, is a playground with free usage and -
 np
 
-API key-AIzaSyC-jh1Ny2RcKNyf-_Mgrm6MX_i3rlZhU6s
 Django back end python
 
 npm run dev
