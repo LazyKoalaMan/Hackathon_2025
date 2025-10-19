@@ -1,0 +1,26 @@
+{
+    "campaign_id": "camp-1",
+    "session_id": "sess-20251018-01",
+    "seed": 12345,
+    "party": [
+      {"player_id":"p1","name":"Ari","hp":12,"ac":15,"stats":{"str":10,"dex":14,"cha":12}}
+    ],
+    "scene": {
+      "title":"The Old Mill",
+      "desc":"You stand before an abandoned mill...",
+      "npcs":[{"id":"npc1","name":"Old Miller","hp":8}]
+    },
+    "turns": [
+      {
+        "turn_id":1,
+        "actor":"player",
+        "player_id":"p1",
+        "input":"I check the door for traps and then open it slowly.",
+        "rolls":[{"type":"d20","value":12,"reason":"Perception"}],
+        "dm_reply":"You find a loose hinge... (narration)",
+        "timestamp":"2025-10-18T19:00:00-05:00"
+      }
+    ],
+    "last_llm_tokens": 412
+  }
+  
